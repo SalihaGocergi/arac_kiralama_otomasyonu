@@ -1,0 +1,5 @@
+1 42fz182 sahin benzin manuel 100
+2 42ag089 passat dizel otomatik 200
+3 42hs429 quasqai dizel manuel 300            
+8 42bg456 caddy motorin manuel 120
+10 42hh123 opel benzin manuel 300
